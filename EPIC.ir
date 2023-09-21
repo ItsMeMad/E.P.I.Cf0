@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: NECe_F40B
+type: parsed
+protocol: NECext
+address: 84 F4 00 00
+command: 0B F4 00 00
+# 
+name: Uus
+type: parsed
+protocol: NECext
+address: 84 F4 00 00
+command: 04 FB 00 00
+# 
+name: NECe_F40B
+type: parsed
+protocol: NECext
+address: 84 F4 00 00
+command: 0B F4 00 00
+# 
+name: NECe_FB04
+type: parsed
+protocol: NECext
+address: 84 F4 00 00
+command: 04 FB 00 00
